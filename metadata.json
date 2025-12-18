@@ -1,0 +1,5 @@
+{
+  "name": "Image Paste & Download",
+  "description": "A utility to paste or drop an image from your clipboard, preview its details, and download it in various formats.",
+  "requestFramePermissions": []
+}
